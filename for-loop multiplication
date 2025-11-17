@@ -1,5 +1,0 @@
-#구구단을 for중첩문으로 만들기
-
-for dan in range(2,10):
-    for i in range(1,10):
-        print(f'{dan} * {i} = {dan * i}')
